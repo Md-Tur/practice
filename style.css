@@ -1,0 +1,64 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+}
+body{
+    background-image: url(images/restaurant-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+img{
+    height: 150px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img1{
+    margin-left: 100px;
+}
+#img2{
+    margin-left: 170px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#img3{
+    margin-left: 230px;
+}
+.details{
+    display: flex;
+}
+.img-section{
+    width: 50%;
+}
+.details-section{
+    width: 50%;
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+}
+
+#shop1{
+    width: 50%;
+    box-shadow: 5px 5px 10px white;
+    border-left: 5px solid black;
+    border-top: 5px solid white;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#shop2{
+    width: 50%;
+    box-shadow: 5px 5px 10px white;
+    border-left: 5px solid black;
+    border-top: 5px solid white;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+h3{
+    text-align: center;
+}
