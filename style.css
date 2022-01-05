@@ -2,7 +2,7 @@ h1{
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 30px;
-    color: whitesmoke;
+    color: darkgreen;
 }
 body{
     background-image: url(images/restaurant-bg.jpg);
@@ -37,28 +37,37 @@ img{
     font-size: 40px;
     color: black;
     font-style: italic;
+    
+}
+.button{
+    width: 50%;
+    box-shadow: 5px 5px 10px white;
+    border-left: 5px solid black;
+    border-top: 5px solid white;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+    text-align: center;
+   
+}
+#shop-3{
+    margin-top: 30px;
 }
 
-#shop1{
-    width: 50%;
-    box-shadow: 5px 5px 10px white;
-    border-left: 5px solid black;
-    border-top: 5px solid white;
-    margin-right: 10px;
-    margin-left: 10px;
-    border-radius: 10px;
-    padding-left: 20px;
+#page-1{
+    
+    background-image: url(images/page-1.jpg);
 }
-#shop2{
-    width: 50%;
-    box-shadow: 5px 5px 10px white;
-    border-left: 5px solid black;
-    border-top: 5px solid white;
-    margin-right: 10px;
-    margin-left: 10px;
-    border-radius: 10px;
-    padding-left: 20px;
+#page-2{
+    background-image: url(images/page-2.jpg);
 }
-h3{
-    text-align: center;
+#page-3{
+    background-image: url(images/page-3.jpg);
+}
+#page-4{
+    background-image: url(images/page-4.jpg);
+}
+#decoration{
+    text-decoration: none;
 }
